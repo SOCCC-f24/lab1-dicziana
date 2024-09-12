@@ -3,7 +3,7 @@
 # Convert Celsius to Fahrenheit
 def c2f(cel):
     # Correct Formula for celsius to Fahrenheit conversion
-    return c * 9 / 5 + 32
+    return (cel * 9 / 5) + 32
     
 
 def main():
