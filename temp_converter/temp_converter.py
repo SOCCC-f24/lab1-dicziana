@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 
-# process
-def c2f(c):
-    return c * 9 / 5 + 32
+Convert Celsius to Fahrenheit
+def c2f(cel):
+    return (cell * 9 / 5) + 32
 
 def main(cel):
-    return c2f(cel)
+    Cel = 100
 
 if __name__ == "__main__":
     cel = 100         # input
