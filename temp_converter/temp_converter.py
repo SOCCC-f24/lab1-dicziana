@@ -11,5 +11,5 @@ def main():
     print(c2f(cel)) # output the result for the conversion
 
 if __name__ == "__main__":
-    cel = 100         # input 
+    cel = 100         100 
     print(main(cel))  # output 
