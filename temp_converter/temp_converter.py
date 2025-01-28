@@ -1,12 +1,14 @@
 #!/usr/bin/python3
 
 # Convert Celsius to Fahrenheit
-def c2f(cel):
+# def c2f(cel):
     # Correct Formula for celsius to Fahrenheit conversion
     return (cel * 9 / 5) + 32
     
 
 def main():
+    F = 0
+    c = f2c(f)
     Cel = 100 # example input for Celcius
     print(c2f(cel)) # output the result for the conversion
 
